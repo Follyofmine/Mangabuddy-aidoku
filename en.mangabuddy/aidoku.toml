@@ -1,0 +1,8 @@
+id = "en.mangabuddy"
+name = "MangaBuddy"
+language = "en"
+version = "1.0.0"
+description = "A source for MangaBuddy, providing access to manga content."
+homepage = "https://mangabuddy.com"
+icon = "icons/en.mangabuddy-v1.png"
+source = "https://github.com/followofmine/Mangabuddy-aidoku"

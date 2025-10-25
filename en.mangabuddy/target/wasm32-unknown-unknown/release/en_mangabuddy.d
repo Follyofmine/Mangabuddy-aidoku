@@ -1,0 +1,1 @@
+/workspaces/Mangabuddy-aidoku/en.mangabuddy/target/wasm32-unknown-unknown/release/en_mangabuddy.wasm: /workspaces/Mangabuddy-aidoku/en.mangabuddy/src/lib.rs /workspaces/Mangabuddy-aidoku/en.mangabuddy/templates/madtheme/src/helpers.rs /workspaces/Mangabuddy-aidoku/en.mangabuddy/templates/madtheme/src/imp.rs /workspaces/Mangabuddy-aidoku/en.mangabuddy/templates/madtheme/src/lib.rs
