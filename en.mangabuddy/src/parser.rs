@@ -48,4 +48,3 @@ pub fn get_page_list_from_url(url: &str, _referer: &str) -> Result<Vec<Page>> {
 		}
 	}
 }
-404: Not Found
