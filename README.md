@@ -1,0 +1,1 @@
+# Mangabuddy-aidoku
