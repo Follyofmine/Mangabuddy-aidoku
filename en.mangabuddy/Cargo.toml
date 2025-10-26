@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+madtheme = { path = "templates/madtheme" }
 aidoku = { git = "https://github.com/Aidoku/aidoku-rs" }
