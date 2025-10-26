@@ -3,4 +3,3 @@
 // accidentally; keep a small helper here for future local helpers.
 
 /// No-op for now; add crate-specific helpers here if needed.
-pub fn noop() {}
